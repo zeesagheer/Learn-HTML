@@ -7,7 +7,7 @@
     groceryPlaceHolder = "{{grocery}}"
     // create your functions
     function Init() {
-
+        var timm = "rjekre";
     }
     // add your event listeners
 
