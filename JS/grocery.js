@@ -6,10 +6,14 @@
     ulGroceries = document.querySelector("somthing");
     groceryPlaceHolder = "{{grocery}}"
     // create your functions
+    function Init() {
 
+    }
     // add your event listeners
 
     // call Init
+    Init();
+
 
     //return something
 
